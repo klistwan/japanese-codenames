@@ -12,15 +12,9 @@ This is a developer-friendly version that only has ~300 lines of html.
 
 ### Adding new languages
 
-Google sheets make the job really easy. I will gladly accept pull request, but please go through the translation manually and make sure they are good before submitting. 
-
-https://docs.google.com/spreadsheets/d/1M167she5EVt5t7-5rv0UFnWlSfsAmBIwNeZ7zFkvS9w
+Souce of words is in a Google spreadsheet: 
+https://docs.google.com/spreadsheets/d/1W1UQKx3NJGE21-q8hz_MN9vZqk6zQxKpQ47w-pEyR70
 
 ### Different board sizes
 
 There are two variables in code the describe board size and changing them should result in something that renders and plays reasonably.
-
-
-### Shoutouts!
-
-Thanks to Jarosław Błasiok (@jaro3000) for helping type up polish words. 
