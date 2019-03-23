@@ -1,6 +1,6 @@
-# Words
+# English & Japanese Codenames
 
-Browser version of boardgames [codenames](https://en.wikipedia.org/wiki/Codenames_(board_game)).
+Browser version of the boardgame [Codenames](https://en.wikipedia.org/wiki/Codenames_(board_game)).
 
 Hosted at: https://klistwan.github.io/japanese-codenames/
 
